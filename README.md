@@ -17,4 +17,4 @@ mmWave radar point cloud based human pose estimation
 5. Run `data_demo.ipynb` to learn how to use the dataset.
 
 
-# All data of this project is prepared in the data folder, we can just run the code in the FinalVersionThesis# Dataset need to put in the data folder, then we can run the code in the FinalVersionThesis
+# Dataset need to put in the data folder, then we can run the code in the FinalVersionThesis
