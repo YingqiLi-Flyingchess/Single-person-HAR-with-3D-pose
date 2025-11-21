@@ -1,0 +1,10 @@
+name: panoptes_pc_hpe
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - tqdm
+  - jupyter=1.0.0
+  
